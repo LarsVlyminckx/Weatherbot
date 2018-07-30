@@ -1,0 +1,14 @@
+{
+  "name": "Weatherbot",
+  "version": "1.0.0",
+  "description": "A backend for your weather bot on Recast.ai",
+  "main": "index.js",
+  "author": "Lars Vlyminckx",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.16.2"
+  }
+}
