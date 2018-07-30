@@ -11,5 +11,16 @@
     "axios": "^0.16.2",
     "body-parser": "^1.18.2",
     "express": "^4.16.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LarsVlyminckx/Weatherbot.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LarsVlyminckx/Weatherbot/issues"
+  },
+  "homepage": "https://github.com/LarsVlyminckx/Weatherbot#readme"
 }

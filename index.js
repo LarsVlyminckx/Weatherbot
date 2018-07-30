@@ -9,7 +9,7 @@ app.use(bodyParser.json());
 
 loadWeatherRoute(app);
 
-app.get('/', (req, res) => res.send('Hello World!<br><h1>Hello Weather bot</h1>'))
+app.get('/', (req, res) => res.send('Hello World!<br><h1>Hello Weather bot lol </h1>'))
 
 app.post('/errors', function(req, res) {
     console.log(req.body);
