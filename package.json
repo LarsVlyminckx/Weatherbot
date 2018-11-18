@@ -5,12 +5,14 @@
   "main": "index.js",
   "author": "Lars Vlyminckx",
   "scripts": {
-    "start": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "index.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.16.2",
     "body-parser": "^1.18.2",
-    "express": "^4.16.4"
+    "ejs": "^2.6.1",
+    "express": "^4.16.2"
   },
   "devDependencies": {},
   "repository": {
